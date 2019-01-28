@@ -1,3 +1,18 @@
 body {
   margin: 0;
+  padding: 3rem;
+}
+
+.top {
+  background-color: rgb(128, 128, 216);
+  transform: skew(4deg);
+  padding: 2rem 0;
+}
+
+.top-content {
+  transform: skew(-4deg);
+}
+
+h3 {
+  margin-top: 4rem;
 }
